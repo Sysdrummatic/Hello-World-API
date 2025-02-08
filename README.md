@@ -1,4 +1,4 @@
-# Hello-Word-API
+# Hello-World-API
 
 ---
 
